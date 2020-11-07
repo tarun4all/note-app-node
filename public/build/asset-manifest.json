@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ee5c81bd.chunk.css",
+    "main.js": "/static/js/main.64a9761d.chunk.js",
+    "main.js.map": "/static/js/main.64a9761d.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.feda0118.js",
+    "runtime-main.js.map": "/static/js/runtime-main.feda0118.js.map",
+    "static/css/2.8ce50744.chunk.css": "/static/css/2.8ce50744.chunk.css",
+    "static/js/2.11346c83.chunk.js": "/static/js/2.11346c83.chunk.js",
+    "static/js/2.11346c83.chunk.js.map": "/static/js/2.11346c83.chunk.js.map",
+    "static/js/3.68bad12a.chunk.js": "/static/js/3.68bad12a.chunk.js",
+    "static/js/3.68bad12a.chunk.js.map": "/static/js/3.68bad12a.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.8ce50744.chunk.css.map": "/static/css/2.8ce50744.chunk.css.map",
+    "static/css/main.ee5c81bd.chunk.css.map": "/static/css/main.ee5c81bd.chunk.css.map",
+    "static/js/2.11346c83.chunk.js.LICENSE.txt": "/static/js/2.11346c83.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.feda0118.js",
+    "static/css/2.8ce50744.chunk.css",
+    "static/js/2.11346c83.chunk.js",
+    "static/css/main.ee5c81bd.chunk.css",
+    "static/js/main.64a9761d.chunk.js"
+  ]
+}
